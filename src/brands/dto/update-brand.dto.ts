@@ -1,4 +1,3 @@
-import { PartialType } from '@nestjs/mapped-types';
 import { CreateBrandDto } from './create-brand.dto.js';
 import { IsString, MinLength } from 'class-validator';
 
